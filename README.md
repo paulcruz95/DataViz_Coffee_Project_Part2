@@ -1,5 +1,8 @@
 # DataViz Coffee Project Part2
 
-Adding subplots in top coffee producer countries
+Visualize the top coffee producer countries in combine plotting like GridSpec or Meshgrid Layout and Subplots
 
-## Please see data visualization in notebook
+`IMPORTING` `DATA PREPARATION` `DATA VISUALIZATION`
+
+___Please see data visualization in notebook___
+
